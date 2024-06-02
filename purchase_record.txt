@@ -1,0 +1,7 @@
+Customer Name: zuhaib
+Address: hsp
+Mobile Number: 1122
+Email: qwer
+Insurance: plot
+Purchased Car Model: v8
+
